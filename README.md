@@ -1,2 +1,2 @@
 # test
-A first GitHub.
+A first GitHub in the program.
